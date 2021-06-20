@@ -1,6 +1,6 @@
 #ifndef PAUL_HPP
-#define PAULL_HPP
+#define PAUL_HPP
 
 void paul();
 
-#endif // PAULL_HPP
+#endif // PAUL_HPP
