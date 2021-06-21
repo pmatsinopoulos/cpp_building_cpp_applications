@@ -1,0 +1,4 @@
+lib johnpaul
+    : john.cpp paul.cpp johnpaul.cpp
+    : <link>static
+    ;

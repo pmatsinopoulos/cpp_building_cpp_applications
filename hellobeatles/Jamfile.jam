@@ -1,0 +1,4 @@
+exe hellobeatles
+    : hellobeatles.cpp ../johnpaul ../georgeringo
+    : <include>../johnpaul <include>../georgeringo
+    ;

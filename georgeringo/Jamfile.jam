@@ -1,0 +1,4 @@
+lib georgeringo 
+    : george.cpp ringo.cpp georgeringo.cpp
+    ;
+    
